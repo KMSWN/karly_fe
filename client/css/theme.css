@@ -26,6 +26,7 @@ body *::after {
 
 button {
   border: none;
+}
 
 a {
   color: inherit;
